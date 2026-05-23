@@ -12,3 +12,6 @@ A simple, command-line based Hangman game written in C. This project was develop
 2. Compile the source code using GCC:
    ```bash
    gcc main.c -o hangman
+3. Run the game:
+   ```bash
+   ./hangman
